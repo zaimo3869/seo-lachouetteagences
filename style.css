@@ -1043,7 +1043,7 @@ h4 {
 
 /*rectification*/
 .navbar-brand img{
-    width: 40%;
+    width: auto;
     height: 60px;
 }
 .col-sm-4 {
